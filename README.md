@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yazz69
-- 👀 I’m interested in web front end programming
+- 👀 I’m interested in web programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me to python projects
